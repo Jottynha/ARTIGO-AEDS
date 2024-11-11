@@ -1,0 +1,58 @@
+Relatório de Vendas por Gênero - Região NA
+========================================
+Vendas: 933.52 milhões
+Gênero: 'platform'], Vendas: 316.40 milhões
+Gênero: 'shooter'], Vendas: 311.46 milhões
+Gênero: ['shooter'], Vendas: 210.15 milhões
+Gênero: 'rpg'], Vendas: 179.82 milhões
+Gênero: ['simulator', Vendas: 125.95 milhões
+Gênero: 'sport'], Vendas: 124.82 milhões
+Gênero: 'puzzle'], Vendas: 89.36 milhões
+Gênero: ['racing'], Vendas: 84.70 milhões
+Gênero: ['platform'], Vendas: 78.93 milhões
+Gênero: 'platform', Vendas: 70.49 milhões
+Gênero: 'simulator'], Vendas: 64.95 milhões
+Gênero: 'rpg', Vendas: 61.54 milhões
+Gênero: ['rpg', Vendas: 59.67 milhões
+Gênero: ['arcade', Vendas: 59.47 milhões
+Gênero: 'brawler', Vendas: 49.75 milhões
+Gênero: 'shooter', Vendas: 48.03 milhões
+Gênero: 'racing', Vendas: 47.18 milhões
+Gênero: 'brawler'], Vendas: 44.35 milhões
+Gênero: 'tactical'], Vendas: 39.35 milhões
+Gênero: 'puzzle', Vendas: 38.62 milhões
+Gênero: ['adventure'], Vendas: 29.36 milhões
+Gênero: ['puzzle'], Vendas: 28.75 milhões
+Gênero: ['fighting'], Vendas: 23.43 milhões
+Gênero: ['fighting', Vendas: 22.27 milhões
+Gênero: 'strategy'], Vendas: 21.45 milhões
+Gênero: 'turn based strategy'], Vendas: 21.37 milhões
+Gênero: 'arcade', Vendas: 13.90 milhões
+Gênero: ['sport'], Vendas: 11.29 milhões
+Gênero: ['music', Vendas: 11.15 milhões
+Gênero: ['rpg'], Vendas: 10.53 milhões
+Gênero: ['arcade'], Vendas: 9.09 milhões
+Gênero: 'strategy', Vendas: 7.97 milhões
+Gênero: ['simulator'], Vendas: 7.72 milhões
+Gênero: ['brawler', Vendas: 6.80 milhões
+Gênero: ['music'], Vendas: 6.54 milhões
+Gênero: 'racing'], Vendas: 6.17 milhões
+Gênero: 'simulator', Vendas: 5.37 milhões
+Gênero: ['platform', Vendas: 4.88 milhões
+Gênero: 'visual novel'], Vendas: 4.75 milhões
+Gênero: ['brawler'], Vendas: 4.57 milhões
+Gênero: ['card & board game'], Vendas: 4.41 milhões
+Gênero: 'fighting'], Vendas: 3.93 milhões
+Gênero: ['shooter', Vendas: 3.64 milhões
+Gênero: 'tactical', Vendas: 2.59 milhões
+Gênero: 'point-and-click', Vendas: 2.42 milhões
+Gênero: ['point-and-click', Vendas: 1.87 milhões
+Gênero: 'point-and-click'], Vendas: 1.79 milhões
+Gênero: 'real time strategy', Vendas: 1.40 milhões
+Gênero: 'real time strategy'], Vendas: 1.38 milhões
+Gênero: ['puzzle', Vendas: 1.37 milhões
+Gênero: 'fighting', Vendas: 1.17 milhões
+Gênero: 'indie', Vendas: 0.87 milhões
+Gênero: ['real time strategy', Vendas: 0.58 milhões
+Gênero: [], Vendas: 0.28 milhões
+Gênero: ['indie', Vendas: 0.18 milhões
