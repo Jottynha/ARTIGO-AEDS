@@ -6,15 +6,26 @@ def processar_regiao(jogos_vendas, jogos_genero, limite_vendas_regiao, regiao):
     """
     Processa os dados para uma região específica.
     """
-    estatisticas = graph.criar_grafo_com_genero_por_regiao(
-        jogos_vendas, jogos_genero, limite_vendas_regiao, regiao
-    )
-    return {
-        "top_15": estatisticas["top_15"],
-        "num_conexoes": estatisticas["num_conexoes"],
-        "genero_comum": estatisticas["genero_mais_comum"],
-        "frequencia": estatisticas["frequencia_genero"],
-    }
+    try:
+        # A função retorna uma tupla (grafo, estatísticas)
+        grafo, estatisticas = graph.criar_grafo_com_genero_por_regiao(
+            jogos_vendas, jogos_genero, limite_vendas_regiao, regiao
+        )
+        
+        # Verificar se o segundo elemento é um dicionário
+        if not isinstance(estatisticas, dict):
+            raise ValueError(f"Formato inesperado para estatísticas: {type(estatisticas)}. Conteúdo: {estatisticas}")
+        
+        return {
+            "top_15": estatisticas.get("top_15", []),
+            "num_conexoes": estatisticas.get("num_conexoes", 0),
+            "genero_comum": estatisticas.get("genero_mais_comum", "N/A"),
+            "frequencia": estatisticas.get("frequencia_genero", {}),
+        }
+    except Exception as e:
+        print(f"Erro ao processar a região {regiao}: {e}")
+        raise
+
 
 def processar_todas_as_regioes(jogos_vendas, jogos_genero, limite_vendas_regiao, regioes):
     """

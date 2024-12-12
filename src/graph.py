@@ -114,3 +114,4 @@ def criar_grafo_com_genero_por_regiao(jogos_vendas, jogos_genero, limite_vendas_
 
     return G, estatisticas_regiao
 
+

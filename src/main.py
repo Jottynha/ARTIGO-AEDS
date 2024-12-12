@@ -17,7 +17,7 @@ def main():
         jogos_vendas,
         jogos_genero,
         limite_vendas_regiao,
-        pdf.gerar_relatorio_unico
+        pdf.gerar_relatorio
     )
 
 if __name__ == "__main__":
